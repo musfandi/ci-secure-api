@@ -1,4 +1,6 @@
-# CodeIgniter 4 Application Starter
+# CodeIgniter 4 Rest API starter
+note 
+https://www.twilio.com/blog/create-secured-restful-api-codeigniter-php
 
 ## What is CodeIgniter?
 
